@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:univarsity_management_system/Screens/login_page.dart';
+import 'package:univarsity_management_system/widgets/bottom_nav_bar_screen.dart';
 
 class SignupPage extends StatelessWidget {
   final TextEditingController nameController = TextEditingController();

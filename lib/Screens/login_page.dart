@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:univarsity_management_system/Screens/signUp_screen.dart';
+import 'package:univarsity_management_system/widgets/bottom_nav_bar_screen.dart';
 
 class LoginPage extends StatelessWidget {
   final TextEditingController emailController = TextEditingController();
@@ -31,7 +33,7 @@ class LoginPage extends StatelessWidget {
                   // Logo
                   SizedBox(
                     height: 90,
-                    child: Image.asset('images/main_logo.png'),
+                    child: Image.asset('assets/images/main_logo.png'),
                   ),
                   const SizedBox(height: 10),
                   // App Name

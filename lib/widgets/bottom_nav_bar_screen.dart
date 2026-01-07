@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:univarsity_management_system/Screens/add_event_page.dart';
+import 'package:univarsity_management_system/Screens/favourite_screen.dart';
 import 'package:univarsity_management_system/Screens/homeScreen.dart';
+import 'package:univarsity_management_system/Screens/notificationScreen.dart';
+import 'package:univarsity_management_system/Screens/profile_screen.dart';
 
 class BottomNavBar extends StatefulWidget {
   const BottomNavBar({super.key});

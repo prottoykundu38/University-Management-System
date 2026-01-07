@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:smooth_page_indicator/smooth_page_indicator.dart';
+import 'package:univarsity_management_system/Screens/login_page.dart';
 
 class WelcomePage extends StatefulWidget {
   const WelcomePage({super.key});
@@ -13,17 +15,17 @@ class _WelcomePageState extends State<WelcomePage> {
 
   final List<Map<String, String>> onboardingData = [
     {
-      "image": "images/welcome1.jpg",
+      "image": "assets/images/welcome1.jpg",
       "title": "Discover Events",
       "subtitle": "Find, follow and enjoy events around you effortlessly.",
     },
     {
-      "image": "images/welcome1.jpg",
+      "image": "assets/images/welcome2.jpg",
       "title": "Plan with Ease",
       "subtitle": "Manage your own events like a pro.",
     },
     {
-      "image": "images/welcome1.jpg",
+      "image": "assets/images/welcome3.jpg",
       "title": "Never Miss Out",
       "subtitle": "Get notifications and stay up-to-date always.",
     },

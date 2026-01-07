@@ -19,11 +19,11 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.brown,
         // primarySwatch: Colors.blue, // change this to your preferred color
-        cardColor: Color(0xFFD1A170) ,    // default card color
-        splashColor: Color(0xFFD1A170) , // disable ripple purple splash if needed
-        highlightColor: Color(0xFFD1A170) , // also this
+        cardColor: Color(0xFFD1A170), // default card color
+        splashColor:
+            Color(0xFFD1A170), // disable ripple purple splash if needed
+        highlightColor: Color(0xFFD1A170), // also this
 
-        
         scaffoldBackgroundColor: Color.fromARGB(
           255,
           255,
