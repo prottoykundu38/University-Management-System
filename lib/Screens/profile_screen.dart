@@ -139,7 +139,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
         ),
         leading: Padding(
           padding: const EdgeInsets.all(8.0),
-          child: Image.asset('images/main_logo.png', height: 32),
+          child: Image.asset('assets/images/main_logo.png', height: 32),
         ),
         actions: [
           Padding(
@@ -224,7 +224,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                   backgroundImage:
                       _image != null
                           ? FileImage(_image!)
-                          : AssetImage('images/d_profile.png') as ImageProvider,
+                          : AssetImage('assets/images/d_profile.png') as ImageProvider,
                 ),
                 Positioned(
                   bottom: 0,

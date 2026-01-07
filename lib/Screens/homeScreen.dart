@@ -155,7 +155,7 @@ class _HomePageState extends State<HomePage> {
         ),
         leading: Padding(
           padding: const EdgeInsets.all(8.0),
-          child: Image.asset('images/main_logo.png', height: 32),
+          child: Image.asset('assets/images/main_logo.png', height: 32),
         ),
         flexibleSpace: ClipRRect(
           borderRadius: BorderRadius.circular(30),
