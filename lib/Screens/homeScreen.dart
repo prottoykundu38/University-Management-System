@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:univarsity_management_system/Screens/event_screen.dart';
 
 class HomePage extends StatefulWidget {
   final List<Map<String, String>> favoriteEvents;
