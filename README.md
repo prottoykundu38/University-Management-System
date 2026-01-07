@@ -109,5 +109,3 @@ cd eventure
 flutter pub get
 flutter run
 
----
----
