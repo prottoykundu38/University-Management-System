@@ -64,8 +64,6 @@ The app focuses on clean UI, smooth navigation, and practical campus-oriented fe
 
 ---
 
----
-
 ## ⚙️ Getting Started
 
 ### Prerequisites
@@ -74,6 +72,35 @@ The app focuses on clean UI, smooth navigation, and practical campus-oriented fe
 - Android Studio / VS Code
 - Emulator or physical device
 
+
+
+## 🎨 UI Design
+
+- Minimal and modern UI
+- University-friendly color palette
+- Responsive layout for different screen sizes
+
+---
+
+## 🚧 Future Enhancements
+
+- Backend integration (Firebase / REST API)
+- Event search and filtering
+- Admin dashboard
+- Push notifications
+- Dark mode support
+
+---
+
+## 👨‍💻 Developer
+
+**Prottoy Kundu**  
+BSc in Computer Science & Engineering  
+Flutter Developer
+
+
+---
+---
 ### Installation
 
 ```bash
@@ -82,3 +109,5 @@ cd eventure
 flutter pub get
 flutter run
 
+---
+---
