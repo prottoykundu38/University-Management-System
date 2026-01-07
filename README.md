@@ -1,17 +1,110 @@
-# univarsity_management_system
+# 🎉 Eventure – University Event Management App (Flutter)
 
-A new Flutter project.
+Eventure is a modern **Flutter-based university event management application** designed to help students discover, manage, and participate in academic and social events efficiently.  
+The app focuses on clean UI, smooth navigation, and practical campus-oriented features.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+### 🔐 Authentication
+- User Sign Up & Login
+- Form validation
+- User-friendly onboarding
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 📰 Event Feed
+- Browse upcoming university events
+- View event details (date, time, category)
+- Mark events as **Interested** or **Going**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# University-Management-System" 
+### 🔔 Notifications
+- New event alerts
+- Event reminders
+- Interest notifications
+
+### 📝 Event Management
+- Create new events
+- Select category, date, and time
+- Enable notifications for events
+
+### 👤 Profile Management
+- Profile photo
+- Participation statistics:
+  - Participated
+  - Going
+  - Interested
+- Academic details (University, Class, Interests)
+
+### 🧭 Navigation
+- Bottom navigation bar
+- Floating Action Button for quick event creation
+
+---
+
+## 🛠 Tech Stack
+
+- **Flutter**
+- **Dart**
+- **Material UI**
+- **State Management** (SetState / Provider / GetX)
+
+---
+
+## 📱 Screens Included
+<img width="1095" height="838" alt="image" src="https://github.com/user-attachments/assets/ce125995-e634-4df6-9150-78e7a2ca1f09" />
+
+- Welcome / Splash Screen  
+- Login Screen  
+- Sign Up Screen  
+- Event Feed  
+- Event Details  
+- Create Event  
+- Notifications  
+- Profile Screen  
+
+---
+
+---
+
+## ⚙️ Getting Started
+
+### Prerequisites
+- Flutter SDK (>= 3.x)
+- Dart SDK
+- Android Studio / VS Code
+- Emulator or physical device
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/eventure.git
+cd eventure
+flutter pub get
+flutter run
+## 🎨 UI Design
+
+- Minimal and modern UI
+- University-friendly color palette
+- Responsive layout for different screen sizes
+
+---
+
+## 🚧 Future Enhancements
+
+- Backend integration (Firebase / REST API)
+- Event search and filtering
+- Admin dashboard
+- Push notifications
+- Dark mode support
+
+---
+
+## 👨‍💻 Developer
+
+**Prottoy Kundu**  
+BSc in Computer Science & Engineering  
+Flutter Developer
+
+
+## 📂 Project Structure
+
